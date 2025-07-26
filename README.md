@@ -11,16 +11,16 @@ This Bash script automates the setup of a Linux system for penetration testing b
 
 ## Usage
 1. **Download the Script**:
-   Save the script as `setup-pentest.sh` or clone the repository if available.
+   Save the script as `cyber_setup.sh` or clone the repository if available.
 
 2. **Make the Script Executable**:
    ```bash
-   chmod +x setup-pentest.sh
+   chmod +x cyber_setup.sh
    ```
 
 3. **Run the Script**:
    ```bash
-   ./setup-pentest.sh
+   ./cyber_setup.sh
    ```
 
    The script will:
